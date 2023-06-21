@@ -45,4 +45,4 @@ music used:
 - [ADRIANWAVE - Peach Beach](https://soundcloud.com/adrianwave/peach-beach)
 
 
-all other art/sounds/assets/programming by [@<3iuiy3ufkkkkkkk>Anuken[(https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+all other art/sounds/assets/programming by [Anuke](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
