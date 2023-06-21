@@ -4,9 +4,9 @@
 
 the anime gacha bullet hell rhythm game; *created as a mindustry april 1st event*
 
-[downloads for windows/linux/android are available on the releases page.](https://github.com/Anuken/animdustry/releases)
+[downloads for windows/linux/android are available on the releases page.](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-please read [the last release notes](https://github.com/Anuken/animdustry/releases/tag/v1.2) for information about the future of this game.
+please read [the last release notes](https://www.youtube.com/watch?v=dQw4w9WgXcQ) for information about the future of this game.
 
 # compiling
 
@@ -45,4 +45,4 @@ music used:
 - [ADRIANWAVE - Peach Beach](https://soundcloud.com/adrianwave/peach-beach)
 
 
-all other art/sounds/assets/programming by me
+all other art/sounds/assets/programming by [@<3iuiy3ufkkkkkkk>Anuken[(https://www.youtube.com/watch?v=dQw4w9WgXcQ)
