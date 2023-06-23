@@ -1,6 +1,6 @@
 version       = "0.0.1"
-author        = "Anuken"
-description   = "Animdustry"
+author        = "A N U K E N"
+description   = "Mindustry when your parents walk by."
 license       = "GPL-3.0"
 srcDir        = "src"
 bin           = @["main"]
