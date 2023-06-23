@@ -1,38 +1,31 @@
 ![](assets-raw/icon.png)
 
-# animdustry
+# This is not the real animdustry
 
-the anime gacha bullet hell rhythm game; *created as a mindustry april 1st event*
+the parody hell game; *created as a factory fortress apriill fold event*
 
 [downloads for windows/linux/android are available on the releases page.](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-please read [the last release notes](https://www.youtube.com/watch?v=dQw4w9WgXcQ) for information about the future of this game.
+  please read [the last release notes](https://www.youtube.com/watch?v=dQw4w9WgXcQ) for information about the *past* of this game.
 
 # compiling
 
-## initial mac/linux/android setup
+## initial maccaroni / penguin / *R O B O T*
 
-1. install the latest stable version of Nim. `~/.nimble/bin` must be on your PATH.
-2. make sure this repository was cloned with `--recursive`, as it uses git submodules!
-3. if on linux, `sudo apt install -y xorg-dev libgl1-mesa-dev` or equivalent packages
-4. `nimble install -y -d` (the flags are important!)
-
+1. No.
+   
 ## running on windows
 
-- building on windows **does not work**
-- I don't develop on Windows and I don't have much interest in adding support for it myself; **use linux or WSL instead**
+- building on windows **work**
+- I don't cod on Window; **use WSL**
 
 ## running on desktop
 
-- `nimble run` to launch the game directly
-- `nimble deploy <win/lin/mac>` to create an executable in the `build/` directory for a specific platform; cross-compiling for Windows requires mingw installed
+- `genshin-genshin` to play genshin
 
 ## running/compiling on android
 
-1. make sure you have the Android SDK and NDK installed
-
-- `nimble androidPackage` will create an unsigned APK at `android/build/outputs/apk/debug/`
-- `nimble android` will attempt to compile and run the game on a connected Android device - USB debugging must be enabled
+1. who tf cares.
 
 # credits
 
