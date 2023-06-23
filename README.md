@@ -25,7 +25,7 @@ the parody hell game; *created as a factory fortress apriill fold event*
 
 ## running/compiling on android
 
-1. who tf cares.
+1. i  dunno :/
 
 # credits
 
